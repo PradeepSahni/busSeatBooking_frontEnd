@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+td {
+  border: 1px solid black !important;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* border-collapse: unset !important; */
+  /* border-radius: 10px !important; */
+}
+.seat-booked{
+  background-color: aqua;
+}
+.pe-auto{
+  cursor: pointer ;
+}
