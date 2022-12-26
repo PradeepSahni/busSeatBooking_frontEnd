@@ -1,2 +1,3 @@
-npm i
-npm start
+# Project Setup 
+    npm i
+    npm start
